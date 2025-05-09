@@ -22,7 +22,7 @@ I'm a Software Engineer passionate about Full Stack Development, Cloud Technolog
 🔹 Automated **legal document conversion** to **MNCR XML format** using **Informatica DT/DX**, cutting **manual effort by 50%**.  
 🔹 Received **client appreciation** for significantly improving **operational efficiency**.
 
-### **Lead Teaching Assistant - Northeastern University (Sep 2024 - Present)**
+### **Lead Teaching Assistant - Northeastern University (Sep 2024 - April 2025)**
 
 📅 Assisting students in **Data Structures, ADTs, and Web Technologies** (Express.js, React.js, MongoDB, REST APIs).  
 🔹 Designed **course materials**, handled **student queries**, and collaborated on **assignments & exams**.
