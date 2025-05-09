@@ -6,6 +6,17 @@ I'm a Software Engineer passionate about Full Stack Development, Cloud Technolog
 
 ---
 
+## 🎓 Education
+### Northeastern University, Boston, MA
+📅 **Sept 2023 – Apr 2025**
+🎓 **Master of Science in Information Systems**
+🔹 Specialized in **Software Development, Cloud Computing, and AI Integration**
+🔹 Hands-on experience with **Java**, **Spring Boot**, **MERN Stack**, **CloudOps**, and **LLM Fine-Tuning Projects**
+🔹 Key Courses: Program Structures & Algorithms, Web Design and User Experience Engineering, Network Structure & Cloud 
+               Computing, Prompt Engineering & AI, Web Development Tools & Methods, Data Management and Database Design
+
+---
+
 ## 🏆 Work Experience
 
 ### **Senior Systems Engineer - Infosys Limited**
