@@ -74,7 +74,7 @@ I'm a Software Engineer passionate about Full Stack Development, Cloud Technolog
 ### **GenerativeAI** 🤖
 
 **Tech Stack:** `Prompt Engineering`, `GPT Models`, `Hugging Face Transformers`, `LLM Fine-Tuning`, `RAG`, `n8n`                                        
- 🔹 Built scalable AI workflows integrating **LLMs** with WhatsApp,image generation API and cloud **logging** via Google Sheets.                        
+ 🔹 Built scalable AI workflows integrating **LLMs** with WhatsApp, image generation APIs and cloud **logging** via Google Sheets.                        
  🔹 Engineered intelligent **text-to-image** generation using OpenRouter, Stable Diffusion, and automated **n8n** workflows.                             
  🔹 Optimized prompts to enhance **LLM performance** in reasoning, rewriting, and content generation.                                                   
  🔹 Developed a conversational **AI travel assistant** using **Gemini 1.5** Pro to handle real-time, context-aware travel queries.                       
